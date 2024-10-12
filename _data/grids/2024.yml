@@ -26,3 +26,11 @@
     Vă veți alege un proiect dintr-o listă și apoi veți lucra la proiect comunicând online cu mentorul și live la hackathon, cot la cot cu toți ceilalți.
     La finalul celei de-a doua părți, veți avea contribuții (publice) în proiecte open source."
   extra_info: "Hackathoanele vor avea loc <în ultimele 3 săptămâni, sâmbăta, intervalul 10-13."
+
+- title: "Git"
+  content: "Ceva despre Git."
+  extra_info: "Primim pizza."
+
+- title: "Nu git"
+  content: "Dar de ce nu?"
+  extra_info: "Adaugam si extra info."
